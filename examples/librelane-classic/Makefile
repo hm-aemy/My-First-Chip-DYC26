@@ -2,7 +2,7 @@ WORK_DIR=$(shell pwd)
 TOP=counter_8bit
 TAG=counter_8bit-run
 
-PDK_ROOT ?= $(WORK_DIR)/../../IHP-Open-PDK
+PDK_ROOT ?= $(WORK_DIR)/../../pdk
 PDK = ihp-sg13g2
 
 .PHONY: librelane
