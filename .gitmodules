@@ -29,3 +29,6 @@
 	path = chips/01-layr-1/design_data
 	url = https://github.com/janschaible/layer.git
 	branch = handin
+[submodule "chips/04-spaceinvaders/design_data"]
+	path = chips/04-spaceinvaders/design_data
+	url = https://github.com/fine-seat/chip-invaders
